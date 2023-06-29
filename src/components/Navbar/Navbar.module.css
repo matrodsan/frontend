@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  gap: 30px;
+  background-color: var(--hookers-green);
+  padding: 20px 40px;
+  box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.1);
+}
+
+.navbar * {
+  color: #fff;
+}

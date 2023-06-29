@@ -1,0 +1,9 @@
+.link {
+  text-decoration: none;
+  color: var(--hookers-green);
+  transition: 0.4s;
+}
+
+.link:hover {
+  transform: translateY(-5px);
+}
