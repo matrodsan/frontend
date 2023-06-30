@@ -1,5 +1,9 @@
 .itemPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
   padding: 20px;
-  /* border: 1px solid var(--onyx); */
   border-radius: 5px;
 }
