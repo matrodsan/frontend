@@ -1,0 +1,25 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+}
+
+.item > * {
+  margin: 0;
+}
+
+.item img {
+  width: 150px;
+}
+
+.imgBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--onyx);
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}

@@ -1,0 +1,8 @@
+.footer {
+  width: 100%;
+  background-color: var(--hookers-green);
+  color: #fff;
+  padding: 20px 40px;
+  font-weight: 200;
+  text-align: center;
+}

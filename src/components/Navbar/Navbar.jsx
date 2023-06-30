@@ -5,8 +5,8 @@ const Navbar = () => {
   return (
     <div className={styles.navbar}>
       <Anchor link="/">Início</Anchor>
-      <Anchor link="/">Sobre</Anchor>
-      <Anchor link="/">Contatos</Anchor>
+      <Anchor link="/sobre">Sobre</Anchor>
+      <Anchor link="/contatos">Contatos</Anchor>
     </div>
   );
 };
