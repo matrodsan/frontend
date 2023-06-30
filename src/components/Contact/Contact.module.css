@@ -1,0 +1,23 @@
+.contact {
+  display: flex;
+  align-items: center;
+  font-size: 24pt;
+  gap: 10px;
+}
+
+.contact > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  font-size: 20pt;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.info a {
+  text-decoration: none;
+  color: var(--onyx);
+}

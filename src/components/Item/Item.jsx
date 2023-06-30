@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import styles from "./Item.module.css";
 
 const Item = (props) => {
@@ -8,6 +9,7 @@ const Item = (props) => {
       </div>
       <h3>{props.dados.descricao}</h3>
       <p>Autor: {props.dados.autor}</p>
+      <Link to={`/page/${props.dados.id}`}>Ler</Link>
     </div>
   );
 };

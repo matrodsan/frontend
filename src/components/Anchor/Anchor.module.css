@@ -1,10 +1,14 @@
 .link {
   text-decoration: none;
-  color: var(--hookers-green);
-  transition: 0.4s;
+  color: #fff;
+  transition: transform 0.2s;
   font-size: 14pt;
 }
 
 .link:hover {
   transform: translateY(-5px);
+}
+
+.ativo {
+  font-weight: 700;
 }

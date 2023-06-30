@@ -8,7 +8,7 @@ const Itens = () => {
       <h1>Listagem de itens:</h1>
       <div className={styles.carrousel}>
         {itens.map((item) => (
-          <Item dados={item} />
+          <Item dados={item} key={item.id} />
         ))}
       </div>
     </div>

@@ -6,6 +6,9 @@ import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 import Navbar from "./components/Navbar/Navbar";
 import Itens from "./pages/Itens/Itens";
+import ItemPage from "./pages/ItemPage/ItemPage";
+import About from "./pages/About/About";
+import Contacts from "./pages/Contacts/Contacts";
 
 function App() {
   return (
@@ -16,9 +19,9 @@ function App() {
         <Content>
           <Routes>
             <Route path="/" element={<Itens />} />
-            <Route path="/sobre" element="Teste da pagina sobre" />
-            <Route path="/contatos" element="Teste da pagina contatos" />
-            <Route path="/page/:id" element="Teste da pagina id" />
+            <Route path="/sobre" element={<About />} />
+            <Route path="/contatos" element={<Contacts />} />
+            <Route path="/page/:id" element={<ItemPage />} />
             <Route path="*" element="Página não encontrada" />
           </Routes>
         </Content>
