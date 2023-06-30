@@ -9,6 +9,7 @@ import Itens from "./pages/Itens/Itens";
 import ItemPage from "./pages/ItemPage/ItemPage";
 import About from "./pages/About/About";
 import Contacts from "./pages/Contacts/Contacts";
+import NotFound from "./pages/NotFound/NotFound";
 
 function App() {
   return (
@@ -22,7 +23,7 @@ function App() {
             <Route path="/sobre" element={<About />} />
             <Route path="/contatos" element={<Contacts />} />
             <Route path="/page/:id" element={<ItemPage />} />
-            <Route path="*" element="Página não encontrada" />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </Content>
         <Footer />

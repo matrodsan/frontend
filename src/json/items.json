@@ -15,6 +15,18 @@
     "autor": "Prof. Áquila",
     "descricao": "Estruturas de Dados",
     "id": 3,
-    "texto": "A disciplina de UX-Design (User Experience Design) é uma abordagem fundamental para o desenvolvimento de produtos digitais que visam proporcionar experiências de usuário excepcionais. Neste curso, os alunos serão introduzidos aos princípios e práticas do UX-Design, aprendendo a criar interfaces intuitivas, funcionais e cativantes. Ao longo do curso, os alunos terão a oportunidade de explorar as etapas do processo de design centrado no usuário, desde a pesquisa e análise das necessidades dos usuários até a prototipagem e validação das soluções propostas. Serão apresentados métodos e ferramentas essenciais utilizados por profissionais de UX-Design, permitindo que os alunos adquiram habilidades práticas para projetar experiências de usuário memoráveis."
+    "texto": "A disciplina de Estrutura de Dados é fundamental na área da Ciência da Computação e aborda a organização e manipulação de dados de forma eficiente. Ela se concentra no estudo e na implementação de diferentes estruturas de dados, como listas, pilhas, filas, árvores, grafos e tabelas de hash. As estruturas de dados fornecem meios de armazenar e organizar os dados de maneira que possam ser acessados e manipulados de forma eficiente. Cada estrutura de dados possui características e operações específicas, e a escolha correta de uma estrutura de dados pode ter um impacto significativo no desempenho e eficiência dos algoritmos. Durante o estudo da disciplina, os alunos aprendem os conceitos teóricos por trás das estruturas de dados, como suas propriedades, complexidade de tempo e espaço, e métodos de implementação. Além disso, eles também adquirem habilidades práticas na implementação e uso das estruturas de dados em linguagens de programação, como C++, Java ou Python. A disciplina de Estrutura de Dados é essencial para o desenvolvimento de algoritmos eficientes e otimizados, e é amplamente aplicada em diversas áreas da computação, como bancos de dados, processamento de imagens, sistemas de busca, inteligência artificial, jogos e muitos outros. Com um bom entendimento das estruturas de dados, os programadores podem resolver problemas complexos de forma mais eficiente e criar soluções robustas e escaláveis."
+  },
+  {
+    "autor": "Prof. Silvio",
+    "descricao": "Análise e proj. de sis.",
+    "id": 4,
+    "texto": "A disciplina de Análise e Projeto de Sistemas é essencial no desenvolvimento de sistemas de software eficientes e de alta qualidade. Ela abrange a análise dos requisitos do sistema, a modelagem dos componentes e interações, a seleção de padrões arquiteturais e a consideração dos aspectos de qualidade do sistema. Essa disciplina é fundamental para atender às necessidades dos usuários e garantir a robustez e escalabilidade dos sistemas desenvolvidos."
+  },
+  {
+    "autor": "Prof. Vitor",
+    "descricao": "Sistemas Operacionais",
+    "id": 5,
+    "texto": "A disciplina de Sistemas Operacionais estuda os princípios e funcionalidades dos sistemas operacionais, que são responsáveis por gerenciar os recursos de um computador. Ela abrange componentes como o kernel, gerenciador de processos, sistema de arquivos e drivers de dispositivo. Os alunos aprendem sobre escalonamento de processos, gerenciamento de memória, sistemas de arquivos e segurança. É essencial para entender o funcionamento dos sistemas computacionais e desenvolver software eficiente."
   }
 ]

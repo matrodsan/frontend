@@ -8,7 +8,9 @@ const Contact = (props) => {
         <Icon icon={props.icon} />
       </div>
       <div className={styles.info}>
-        <a href={props.link}>{props.children}</a>
+        <a href={props.link} target="blank">
+          {props.children}
+        </a>
       </div>
     </div>
   );

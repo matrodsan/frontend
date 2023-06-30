@@ -1,0 +1,30 @@
+[
+  {
+    "title": "WhatsApp",
+    "link": "https://wa.me/5527998175043",
+    "icon": "ic:baseline-whatsapp",
+    "color": "#ffffff",
+    "bgColor": "#24cc63"
+  },
+  {
+    "title": "Instagram",
+    "link": "https://www.instagram.com/mateusrsantos/",
+    "icon": "mdi:instagram",
+    "color": "#ffffff",
+    "bgColor": "#d82a7a"
+  },
+  {
+    "title": "Facebook",
+    "link": "https://www.facebook.com/mateusrodriguessantos",
+    "icon": "ri:facebook-fill",
+    "color": "#ffffff",
+    "bgColor": "#1674ea"
+  },
+  {
+    "title": "GitHub",
+    "link": "https://github.com/matrodsan",
+    "icon": "mingcute:github-fill",
+    "color": "#ffffff",
+    "bgColor": "#1f2328"
+  }
+]

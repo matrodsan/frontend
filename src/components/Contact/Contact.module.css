@@ -1,8 +1,9 @@
 .contact {
   display: flex;
   align-items: center;
-  font-size: 24pt;
+  font-size: 18pt;
   gap: 10px;
+  margin: 10px;
 }
 
 .contact > div {
@@ -12,8 +13,8 @@
 }
 
 .icon {
-  font-size: 20pt;
-  padding: 5px;
+  font-size: 16pt;
+  padding: 4px;
   border-radius: 50%;
 }
 

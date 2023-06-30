@@ -2,11 +2,11 @@
   text-decoration: none;
   color: #fff;
   transition: transform 0.2s;
-  font-size: 14pt;
+  font-size: 13pt;
 }
 
 .link:hover {
-  transform: translateY(-5px);
+  transform: translateY(-3px);
 }
 
 .ativo {
